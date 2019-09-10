@@ -1,5 +1,5 @@
 # CoToXYConv
-A python script which can convert latitude and longitude to X and Y cartesian system. 
+A python script which can convert latitude and longitude to X and Y cartesian system using SUMO network file. 
 The result can be used in simulators which prefer X and Y coordinates.
 
 It uses JSON and SUMOLib, therefore SUMO simulator has to be installed on the host machine.
