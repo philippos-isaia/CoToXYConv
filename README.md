@@ -9,7 +9,9 @@ The user can execute the code as follows:
 python CoordinatesCalculator.py --sumo sumonetfile.net --netin input.json --netout output.json
 
 --sumo sumonetfile.net -> SUMO Simulator Network File Path (path and filename)
+
 --netin input.json -> JSON Input File Path (path and filename)
+
 --netout output.json -> JSON Output File Path (path and filename)
 
 Input JSON File Structure
